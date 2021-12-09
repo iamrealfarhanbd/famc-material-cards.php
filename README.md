@@ -17,8 +17,9 @@ Give a star to the repository
 
 ## 🧔 Follow Me
 
-🐦 [Twitter](https://twitter.com/MSRwpac) | [Facebook](https://www.facebook.com/MianShahzadRaza/)
+🐦 [Linkedin](https://bd.linkedin.com/in/iamrealfarhanbd) | [Facebook](https://www.facebook.com/iamrealfarhanbd/)
 
 ## Credits
 
 This addon is based on [Material Cards](https://github.com/marlenesco/material-cards) template by @github/marlenesco
+This addon is based on [Material Cards](https://github.com/wpacademy/wpac-material-cards-elementor) template by @github/wpacademy
