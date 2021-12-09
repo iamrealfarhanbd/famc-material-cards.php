@@ -21,5 +21,5 @@ Give a star to the repository
 
 ## Credits
 
-This addon is based on [Material Cards](https://github.com/marlenesco/material-cards) template by @github/marlenesco
+This addon is based on [Material Cards](https://github.com/marlenesco/material-cards) template by @github/marlenesco <br>
 This addon is based on [Material Cards](https://github.com/wpacademy/wpac-material-cards-elementor) template by @github/wpacademy
