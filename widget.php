@@ -49,7 +49,7 @@ class fa_Material_Cards extends \Elementor\Widget_Base {
 	 * @return string Widget icon.
 	 */
 	public function get_icon() {
-		return 'fab fa-address-card';
+		return 'eicon-custom';
 	}
 
 	/**
