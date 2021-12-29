@@ -1,10 +1,10 @@
-# 🎴 FAMC Material Cards
+# 💜 FAMC Material Cards 💜
 
 ## Beautiful Material Crads widget for Elementor
 
 This addon was developed during the Elementor Addon development Tutorial. You are free to use this addon for practice, personal or commercial projects.
 
-## 🛠️ How to Install
+## 🛠️ How to Install 🛠️
 
 1. Download the source zip folder from this repository
 2. Goto Plugins > Add New > Upload
@@ -15,11 +15,7 @@ This addon was developed during the Elementor Addon development Tutorial. You ar
 
 Give a star to the repository
 
-## 🧔 Follow Me
+## 🧔 Follow Me 🧔
 
 🐦 [Linkedin](https://bd.linkedin.com/in/iamrealfarhanbd) | [Facebook](https://www.facebook.com/iamrealfarhanbd/)
 
-## Credits
-
-This addon is based on [Material Cards](https://github.com/marlenesco/material-cards) template by @github/marlenesco <br>
-This addon is based on [Material Cards](https://github.com/wpacademy/wpac-material-cards-elementor) template by @github/wpacademy
